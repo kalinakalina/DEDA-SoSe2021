@@ -5,7 +5,7 @@
 # Digital Economy and Decision Analytics class Summer Term 2021
 
 The repository contains the codes of final projects of DEDA Summer Term 2021 class @ HU zu Berlin
-
+* TEST KALINA
 * Each group should for the following repository and create the folder for their own final project.
 * Each project should consist of Quantlets. A Quantlet is a piece of code (a script, or even a bundle of scripts having one main script) responsible for one specific process (e.g. one specific part of analysis: classification step, data preprocessing step etc.). Therefore, your analysis can be divided into a set of steps, where each step is a Quantlet. Your project might have multiple Quantlet folders contained.
 * The code of each Quantlet needs to be accompanied by the Metainfo.txt file (it is just a textual configuration file that needs to contain specific info and **lies in the same folder as your Quantlet's main script**). An example of such file, with the information can be found in the repository's root folder [./Metainfo.txt](Metainfo.txt) **PLEASE DO NOT REWRITE THIS EXAMPLE FILE** (YOU CAN COPY IT TO YOUR PROJECT'S FOLDER THOUGH)
